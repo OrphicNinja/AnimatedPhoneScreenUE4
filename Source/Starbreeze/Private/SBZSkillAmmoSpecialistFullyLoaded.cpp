@@ -1,9 +1,0 @@
-#include "SBZSkillAmmoSpecialistFullyLoaded.h"
-
-USBZSkillAmmoSpecialistFullyLoaded::USBZSkillAmmoSpecialistFullyLoaded() {
-    this->FloatArray.AddDefaulted(1);
-    FProperty* p_NativeClass = GetClass()->FindPropertyByName("NativeClass");
-    *p_NativeClass->ContainerPtrToValuePtr<UClass*>(this) = USBZSkillAmmoSpecialistFullyLoaded::StaticClass();
-}
-
-

@@ -1,5 +1,0 @@
-#include "AccelByteModelsUGCUpdateContentScreenshotResponse.h"
-
-FAccelByteModelsUGCUpdateContentScreenshotResponse::FAccelByteModelsUGCUpdateContentScreenshotResponse() {
-}
-

@@ -1,5 +1,0 @@
-#include "AccelByteModelsSeasonClaimRewardResponseJsonWrapper.h"
-
-FAccelByteModelsSeasonClaimRewardResponseJsonWrapper::FAccelByteModelsSeasonClaimRewardResponseJsonWrapper() {
-}
-

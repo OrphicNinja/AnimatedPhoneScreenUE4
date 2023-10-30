@@ -1,7 +1,0 @@
-#pragma once
-#include "CoreMinimal.h"
-#include "AccelByteModelsPlatformValidateUserItemPurchaseResponse.h"
-#include "DAccelByteModelsPlatformValidateUserItemPurchaseResponseDelegate.generated.h"
-
-UDELEGATE(BlueprintCallable) DECLARE_DYNAMIC_DELEGATE_OneParam(FDAccelByteModelsPlatformValidateUserItemPurchaseResponse, TArray<FAccelByteModelsPlatformValidateUserItemPurchaseResponse>, Response);
-

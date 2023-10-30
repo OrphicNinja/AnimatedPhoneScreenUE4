@@ -1,5 +1,0 @@
-#include "AccelByteModelsV2PaginatedGameSessionQueryResult.h"
-
-FAccelByteModelsV2PaginatedGameSessionQueryResult::FAccelByteModelsV2PaginatedGameSessionQueryResult() {
-}
-

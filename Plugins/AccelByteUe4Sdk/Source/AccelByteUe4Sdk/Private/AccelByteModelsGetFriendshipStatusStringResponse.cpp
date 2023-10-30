@@ -1,5 +1,0 @@
-#include "AccelByteModelsGetFriendshipStatusStringResponse.h"
-
-FAccelByteModelsGetFriendshipStatusStringResponse::FAccelByteModelsGetFriendshipStatusStringResponse() {
-}
-
